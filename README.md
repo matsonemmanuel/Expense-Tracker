@@ -46,4 +46,4 @@ B. Merfi Yussuf Hassan.
 C. Penninah Etabo.
 D. Abdi Mohamud Dakane.
 E. Austin Odhiambo.
-F.
+F. Abdimajid Omar.
