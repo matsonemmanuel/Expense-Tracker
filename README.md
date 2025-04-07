@@ -35,6 +35,10 @@ User-friendly interface
 
 Persistent data storag
 
+The screenshot.
+<img width="634" alt="image" src="https://github.com/user-attachments/assets/6f02f1be-4b5e-436a-985d-11374d99b7c0" />
+
+
 
 Contributors.
 A. Emmanuel Mateso.
