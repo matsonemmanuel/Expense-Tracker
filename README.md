@@ -1,4 +1,4 @@
-Expense Tracker
+Expense Tracker.
 A collaborative project by six passionate developers to create a simple yet powerful Expense Tracker app. This tool helps users manage their personal and group finances by tracking income and expenses efficiently.
 
 Table of Contents
