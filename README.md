@@ -1,4 +1,13 @@
-Expense Tracker.
+CONTRIBUTORS.
+A. EMMANUEL MATESO    - 673379.
+B. MERFI YUSSUFU HASSAN - 673031.
+C. PENINAH ETABO LOWUOKOL - 673731.
+D. ABDI MOHAMUD DAKANE - 673007.
+E. AUSTIN ODHIAMBO  - 673676.
+F. ABDIMAJID OMAR  - 673937.
+
+
+EXPENSE TRACKER.
 A collaborative project by six passionate developers to create a simple yet powerful Expense Tracker app. This tool helps users manage their personal and group finances by tracking income and expenses efficiently.
 
 Table of Contents
@@ -48,12 +57,3 @@ The screenshot.
 ![Screenshot 2025-04-09 145052](https://github.com/user-attachments/assets/a98f19d6-9b71-4fb4-a6f4-d0f8c20de647)
 
 
-
-
-Contributors.
-A. Emmanuel Mateso.
-B. Merfi Yussuf Hassan.
-C. Penninah Etabo.
-D. Abdi Mohamud Dakane.
-E. Austin Odhiambo.
-F. Abdimajid Omar.
