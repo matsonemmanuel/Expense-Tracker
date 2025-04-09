@@ -42,7 +42,7 @@ Analyze spending patterns
 Functions.
 Add,and delete, and clear all expense entries
 
-Real-time toatal expenses update
+Real-time total expenses update
 
 Categorization of transactions (e.g., food, transport, utilities)
 
