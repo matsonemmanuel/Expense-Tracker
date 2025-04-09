@@ -4,7 +4,7 @@ from datetime import datetime
 import csv
 
 # Function to add expense
-def add_expense():
+def add_expense(): 
     name = name_entry.get()
     amount = amount_entry.get()
     category = category_var.get()
@@ -63,7 +63,7 @@ def search_expense():
 root = tk.Tk()
 root.title("Expense Tracker")
 root.geometry("600x500")
-root.configure(bg="#f4f4f4")
+root.configure(bg="darksea green")
 
 # Styling
 style = ttk.Style()
