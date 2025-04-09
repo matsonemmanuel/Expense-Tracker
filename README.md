@@ -8,6 +8,8 @@ Features
 
 Tech Stack
 
+The screenshot
+
 Contributors
 
 🧾 About the Project
@@ -36,7 +38,10 @@ User-friendly interface
 Persistent data storag
 
 The screenshot.
-<img width="634" alt="image" src="https://github.com/user-attachments/assets/6f02f1be-4b5e-436a-985d-11374d99b7c0" />
+
+
+![Screenshot 2025-04-09 145052](https://github.com/user-attachments/assets/a98f19d6-9b71-4fb4-a6f4-d0f8c20de647)
+
 
 
 
