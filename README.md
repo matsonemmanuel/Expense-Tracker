@@ -37,6 +37,11 @@ User-friendly interface
 
 Persistent data storag
 
+Tech Stack:
+Python.
+Tkinter.
+CSV.
+
 The screenshot.
 
 
